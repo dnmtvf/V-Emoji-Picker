@@ -14,7 +14,7 @@
     "test:unit": "vue-cli-service test:unit",
     "prepublishOnly": "yarn build"
   },
-  "main": "./lib/v-emoji-picker.cjs.js",
+  "main": "./src/index.cjs.js",
   "module": "./lib/v-emoji-picker.esm.js",
   "unpkg": "./lib/v-emoji-picker.unpkg.js",
   "browser": {
